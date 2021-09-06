@@ -1,0 +1,3 @@
+pip install jupyter notebook
+pip install numpy scipy 
+pip install matplotlib
