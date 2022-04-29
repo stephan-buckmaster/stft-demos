@@ -1,4 +1,4 @@
-Two Jupyter notebooks to explore the STFT.
+Four Jupyter notebooks to explore the STFT.
 
 Example commands to get all installed for local running, and start Jupyter:
 
